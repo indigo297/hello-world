@@ -1,2 +1,3 @@
 # hello-world
-This is a test repository.
+
+Time to learn how to use github.
